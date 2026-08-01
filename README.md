@@ -594,4 +594,5 @@ reset
 
 ## License
 
-No license file is currently present in this repository. Add one before distributing the library to other users.
+MIT License
+Copyright (c) 2026 Vedant Karkar
